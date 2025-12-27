@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1766876760,
+    "transactions": [
+      {
+        "from": "GENESIS",
+        "to": "ATLAS_TREASURY",
+        "amount": 10,
+        "note": "AtlasCoin Genesis Block — A neutral foundation for the future"
+      },
+      {
+        "from": "GENESIS",
+        "to": "ATLAS_FOUNDATION",
+        "amount": 10,
+        "note": "AtlasCoin Genesis Block — A neutral foundation for the future"
+      },
+      {
+        "from": "GENESIS",
+        "to": "ATLAS_DEV_WALLET",
+        "amount": 5,
+        "note": "AtlasCoin Genesis Block — A neutral foundation for the future"
+      }
+    ],
+    "nonce": 636292,
+    "difficulty_bits": 18,
+    "hash": "0000037f1a8b8fa5eea2e90515693cc6211281c2dfc1596d88f1c5483c677239"
+  },
+  {
+    "index": 1,
+    "previous_hash": "0000037f1a8b8fa5eea2e90515693cc6211281c2dfc1596d88f1c5483c677239",
+    "timestamp": 1766876835,
+    "transactions": [
+      {
+        "from": "COINBASE",
+        "to": "LOCAL_MINER",
+        "amount": 25.1,
+        "fee": 0
+      },
+      {
+        "from": "ATLAS_DEV_WALLET",
+        "to": "ATLAS_TREASURY",
+        "amount": 1.0,
+        "fee": 0.1
+      }
+    ],
+    "nonce": 11241,
+    "difficulty_bits": 18,
+    "hash": "00000e0bf0b46128a0474d843b3b83dcdeb0aa63db2d536b67476bbffa3a1e10"
+  }
+]
