@@ -2,7 +2,6 @@
 
 ## 🎬 LIVE DEMO (30 segundos)
 
-
 ## 📊 TOKENOMICS
 | Parámetro | Valor |
 |-----------|-------|
@@ -10,11 +9,10 @@
 | Recompensa | **25 ATC/bloque** |
 | Halving | 210,000 bloques |
 | Tiempo bloque | **5 minutos** |
-| Consensus | **PoW puro** |
 
-## 🌐 LIVE
+## 🌐 LIVE NETWORK
 ✅ [Website](https://atlascoin33.github.io/atlascoin/)  
 ✅ [GitHub](https://github.com/atlascoin33/atlascoin)  
-✅ Testnet **LIVE**
+✅ **TESTNET LIVE**: `python3 node.py` (¡Mina 25 ATC!)
 
-**¡MINA 25 ATC ahora!** 🎉
+**¡Blockchain FUNCIONANDO ahora!** 🎉
