@@ -1,6 +1,9 @@
 # 🛡️ AtlasCoin (ATC) - 21M PoW Neutral Blockchain
 
 ## 🎬 LIVE DEMO (30 segundos)
+git clone https://github.com/atlascoin33/AtlasCoin
+cd AtlasCoin
+python3 node.py
 
 ## 📊 TOKENOMICS
 | Parámetro | Valor |
@@ -11,8 +14,8 @@
 | Tiempo bloque | **5 minutos** |
 
 ## 🌐 LIVE NETWORK
-✅ [Website](https://atlascoin33.github.io/atlascoin/)  
-✅ [GitHub](https://github.com/atlascoin33/atlascoin)  
+✅ [Website](https://atlascoin33.github.io/AtlasCoin/)  
+✅ [GitHub](https://github.com/atlascoin33/AtlasCoin)  
 ✅ **TESTNET LIVE**: `python3 node.py` (¡Mina 25 ATC!)
 
 **¡Blockchain FUNCIONANDO ahora!** 🎉
