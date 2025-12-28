@@ -48,5 +48,27 @@
     "nonce": 11241,
     "difficulty_bits": 18,
     "hash": "00000e0bf0b46128a0474d843b3b83dcdeb0aa63db2d536b67476bbffa3a1e10"
+  },
+  {
+    "index": 2,
+    "previous_hash": "00000e0bf0b46128a0474d843b3b83dcdeb0aa63db2d536b67476bbffa3a1e10",
+    "timestamp": 1766920078,
+    "transactions": [
+      {
+        "from": "COINBASE",
+        "to": "LOCAL_MINER",
+        "amount": 25.1,
+        "fee": 0
+      },
+      {
+        "from": "LOCAL_MINER",
+        "to": "ATLAS_TREASURY",
+        "amount": 1.0,
+        "fee": 0.1
+      }
+    ],
+    "nonce": 275072,
+    "difficulty_bits": 18,
+    "hash": "00002e13f70d791ef2d85462f87dacce2e408c69c2b96bec86f756d1db2c314d"
   }
 ]
